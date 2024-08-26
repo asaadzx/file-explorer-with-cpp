@@ -10,7 +10,7 @@ This is a simple C++ console-based file explorer that allows you to navigate dir
 1. **Clone the Repository:**
 
 ```bash
-    git clone
+git clone https://github.com/asaadzx/file-explorer-with-cpp
 ```
 2. **Compile the Program:**
 
