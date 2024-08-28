@@ -15,7 +15,7 @@ git clone https://github.com/asaadzx/file-explorer-with-cpp
 2. **Compile the Program:**
 
 ```bash
-g++ file_explorer.cpp
+g++ -o file_explorer file_explorer.cpp 
 ```
 3. **Run the Program:**
    
